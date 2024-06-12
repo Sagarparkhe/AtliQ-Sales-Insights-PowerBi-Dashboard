@@ -40,5 +40,5 @@ By using the AIMS grid project management tool, we made sure what are the purpos
 
 **Updated Dashboard**
 
-![Sales Updated insights_page-0002](https://github.com/Sagarparkhe/AtliQ-Sales-Insights-PowerBi-Dashboard/assets/171353864/0a141e81-a347-44e9-b4e6-0aa8622b10cc)
+![Sales Updated insights_page-0002](https://github.com/Sagarparkhe/AtliQ-Sales-Insights-PowerBi-Dashboard/assets/171353864/f04f8ea1-19c8-44b0-94ff-b25e419faffc)
 
