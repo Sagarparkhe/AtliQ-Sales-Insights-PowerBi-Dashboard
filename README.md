@@ -12,6 +12,7 @@ Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 
 By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
 
+ ![AIMS](https://github.com/Sagarparkhe/AtliQ-Sales-Insights-PowerBi-Dashboard/assets/171353864/e1ce4307-413d-4b45-b2af-f763651ef522)
 
 # Steps Followed in this project
 
@@ -29,11 +30,15 @@ By using the AIMS grid project management tool, we made sure what are the purpos
 
 # Final result
 
+**Data Modeling**
+
+![Modeling_page-0001](https://github.com/Sagarparkhe/AtliQ-Sales-Insights-PowerBi-Dashboard/assets/171353864/cdd6a7e1-e6b9-47b4-a272-e272ec9e3e79)
+
 **Initial Dashboard**
 
-
+![Sales Updated insights_page-0001](https://github.com/Sagarparkhe/AtliQ-Sales-Insights-PowerBi-Dashboard/assets/171353864/91561981-d4bc-4d1a-ae70-444ce0cdb44e)
 
 **Updated Dashboard**
 
-
+![Sales Updated insights_page-0002](https://github.com/Sagarparkhe/AtliQ-Sales-Insights-PowerBi-Dashboard/assets/171353864/0a141e81-a347-44e9-b4e6-0aa8622b10cc)
 
